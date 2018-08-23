@@ -1,0 +1,558 @@
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+	.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+
+/* Smartphones (landscape) ----------- */
+@media only screen
+and (min-width : 321px) {
+	.logo{
+		width: 80%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+
+}
+ 
+/* Smartphones (portrait) ----------- */
+@media only screen
+and (max-width : 320px) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+ 
+/* iPads (portrait and landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+ 
+/* iPads (landscape) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : landscape) {
+.logo{
+		width: 80%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 30px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 19px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 40%;
+		margin-right: 40%;
+		margin-top: 2%;
+		border-radius: 4px;
+	}
+	#input{
+		    margin-top: 3%;
+	}
+}
+
+@media only screen
+and (min-device-width : 600px)
+and (max-device-width : 1000px)
+and (orientation : landscape) {
+.logo{
+		width: 25%;
+		margin-left: 40%;
+		margin-right: 40%;
+		margin-bottom: -4%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -3%;
+	}
+	#text2 h4{
+		font-size: 20px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+		margin-top: -17%;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 42%;
+		margin-right: 42%;
+		margin-top: -4%;
+		border-radius: 4px;
+	}
+	#input{
+		margin-top: 10% !important;
+		margin-bottom: -10px;
+	}
+}
+ 
+/* iPads (portrait) ----------- */
+@media only screen
+and (min-device-width : 768px)
+and (max-device-width : 1024px)
+and (orientation : portrait) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 28px;
+	}
+	#htext h3{
+		font-size: 30px;
+	}
+	#htext h1{
+		font-size: 31px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+ 
+/* Desktops and laptops ----------- */
+@media only screen
+and (min-width : 1224px) {
+.logo{
+		width: 80%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 25px;
+	}
+	#htext h1{
+		font-size: 28px;
+	}
+	#text2 h1{
+		
+		font-size: 30px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 19px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 40%;
+		margin-right: 40%;
+		margin-top: 2%;
+		border-radius: 4px;
+	}
+	#input{
+		    margin-top: 3%;
+	}
+}
+ 
+/* Large screens ----------- */
+@media only screen
+and (min-width : 1824px) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 28px;
+	}
+	#htext h3{
+		font-size: 30px;
+	}
+	#htext h1{
+		font-size: 31px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+ 
+/* iPhone 5 (portrait &amp; landscape)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px) {
+.logo{
+		width: 50%;
+		margin-left: 25%;
+		margin-right: 25%;
+		margin-bottom: -10%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 22px;
+	}
+	#htext h1{
+		font-size: 23px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 14%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 28%;
+		margin-right: 28%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+}
+ 
+/* iPhone 5 (landscape)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : landscape) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 22px;
+	}
+	#htext h1{
+		font-size: 23px;
+	}
+}
+ 
+/* iPhone 5 (portrait)----------- */
+@media only screen
+and (min-device-width : 320px)
+and (max-device-width : 568px)
+and (orientation : portrait) {
+.logo{
+		width: 50%;
+	}
+	#htext h5{
+		font-size: 20px;
+	}
+	#htext h3{
+		font-size: 22px;
+	}
+	#htext h1{
+		font-size: 23px;
+	}
+	#text2 h1{
+		
+		font-size: 17px;
+		font-weight: 600;
+		margin-top: -8%;
+	}
+	#text2 h4{
+		font-size: 15px;
+		text-align: justify;
+	}
+	#subscribe{
+		margin-top: -30%;
+		margin-bottom: 18%;
+	}
+	#input #t1{
+		width: 100%;
+		padding: 13px;
+		border-radius: 4px;
+	}
+	#input #t1::placeholder {
+		text-align: center;
+	}
+	
+	#input #btn{
+		margin-left: 33%;
+		margin-right: 33%;
+		margin-top: 5%;
+		border-radius: 4px;
+	}
+	#input{
+		margin-top: 30px;
+	}
+	#img {
+    margin-left: 18px;
+    margin-right: 18px;
+}
+}
